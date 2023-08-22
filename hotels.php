@@ -61,7 +61,7 @@ session_start();
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-xs-2">
-                                <div id="colorlib-logo"><a href="MainPage.php">TRAVELMANIA</a></div>
+                                <div id="colorlib-logo"><a href="MainPage.php">TRAVELMANIAas</a></div>
                             </div>
                             <div class="col-xs-10 text-right menu-1">
                                 <ul>
